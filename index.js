@@ -65,4 +65,4 @@ if (message.content.match(wzmianka)) {
   }
 });
 
-client.login('ODUzNjcyMDY5ODU3MDE3ODk2.YMYyEQ.vd0cPObya-Uiy_Hy-AuIVa6sHmg');
+client.login('ODUzNjcyMDY5ODU3MDE3ODk2.YMYyEQ.LeQUoOW2HfJ2FS-jGC6d3gSQXsw');
